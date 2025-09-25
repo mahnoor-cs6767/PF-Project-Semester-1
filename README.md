@@ -28,11 +28,11 @@ The project includes:
 
 ## 📂 Files Included
 
-|       File Name         |                          Description                               |
-|-----------|-------------|-------------------------------|-----------------------------------
-| `Project Report.pdf`    | Detailed explanation of the project objectives, logic, and results |
-| `Project Code.docx`     | Contains the source code and its breakdown                         |
-| `PF Project Slides.pdf` | Presentation slides summarizing the project                        |
+| File Name | Description |
+|-----------|-------------|
+| `Project Report.pdf` | Detailed explanation of the project objectives, logic, and results |
+| `Project Code.docx` | Contains the source code and its breakdown |
+| `PF Project Slides.pdf` | Presentation slides summarizing the project |
 
 ---
 
